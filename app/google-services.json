@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157308503504",
+    "project_id": "friendchat-44dd3",
+    "storage_bucket": "friendchat-44dd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157308503504:android:081192adcadd6d5b8065d5",
+        "android_client_info": {
+          "package_name": "com.example.friendchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157308503504-easr4ribd6fqa3us3621lsdg7tjt01gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2_ZijAawt7hoFeydBMd33W9RCSqgaeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157308503504-easr4ribd6fqa3us3621lsdg7tjt01gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
